@@ -162,8 +162,8 @@ return [
 
         /// tymon JWT-Auth
        // Tymon\JWTAuth\Providers\JWTAuthServiceProvider::class,
-       Tymon\JWTAuth\Providers\JWTAuthServiceProvider::class, 
-      // Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
+    //    Tymon\JWTAuth\Providers\JWTAuthServiceProvider::class, 
+      Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
      
 
     ],
